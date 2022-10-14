@@ -1,3 +1,5 @@
 {
-    "pixelmon.palette.blue": "Blue"
+    "pixelmon.palette.blue": "Blue",
+    "advancements.blue.title": "Beautiful in blue",
+    "advancements.blue.description": "Capture a blue form pokemon"
 }

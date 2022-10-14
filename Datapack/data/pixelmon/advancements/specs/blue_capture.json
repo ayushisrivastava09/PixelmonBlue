@@ -1,0 +1,24 @@
+{
+	"display": {
+		"icon": {
+            "item" : "pixelmon:pixelmon_sprite",
+            "nbt" : "{\"palette\":\"blue\",\"ndex\":327}"
+		},
+		"title": {
+			"translate": "advancements.blue.title"
+		},
+		"description": {
+			"translate": "advancements.blue.description"
+		},
+		"hidden": true
+	},
+    "parent" : "pixelmon:specs/spec_trigger",
+	"criteria": {
+		"blue_spec_trigger": {
+			"trigger": "pixelmon:spec_trigger",
+			"conditions" : {
+				"spec" : "palette:blue"
+			}
+		}
+	}
+}
