@@ -1,0 +1,219 @@
+{
+    "id": "Eeveelutions_Blue",
+    "spawnInfos": [
+      {
+        "spec": "species:Eevee palette:blue",
+        "stringLocationTypes": [
+          "Land",
+          "Sweet Scent"
+        ],
+        "minLevel": 10,
+        "maxLevel": 15,
+        "typeID": "pokemon",
+        "condition": {
+          "times": [
+            "DAY"
+          ],
+          "stringBiomes": [
+            "birches"
+          ]
+        },
+        "rarity": 0.06
+      },
+      {
+        "spec": "species:Flareon palette:blue",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "minLevel": 35,
+        "maxLevel": 50,
+        "typeID": "pokemon",
+        "heldItems": [
+          {
+            "itemID": "pixelmon:lustrous_globe",
+            "percentChance": 5
+          }
+        ],
+        "condition": {
+          "times": [
+            "AFTERNOON"
+          ],
+          "stringBiomes": [
+            "mesas"
+          ]
+        },
+        "rarity": 0.01
+      },
+      {
+        "spec": "species:Jolteon palette:blue",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "minLevel": 35,
+        "maxLevel": 50,
+        "typeID": "pokemon",
+        "condition": {
+          "times": [
+            "NIGHT"
+          ],
+          "stringBiomes": [
+            "savannas"
+          ]
+        },
+        "rarity": 0.01
+      },
+      {
+        "spec": "species:Vaporeon palette:blue",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "minLevel": 35,
+        "maxLevel": 50,
+        "typeID": "pokemon",
+        "heldItems": [
+          {
+            "itemID": "pixelmon:adamant_crystal",
+            "percentChance": 5
+          }
+        ],
+        "condition": {
+          "times": [
+            "DAY"
+          ],
+          "baseBlocks": [
+            "beach"
+          ],
+          "stringBiomes": [
+            "minecraft:beach",
+            "biomesoplenty:tropic_beach",
+            "byg:rainbow_beach",
+            "byg:white_beach",
+            "terraforged:warm_beach"
+          ]
+        },
+        "rarity": 0.01
+      },
+      {
+        "spec": "species:Espeon palette:blue",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "minLevel": 35,
+        "maxLevel": 50,
+        "typeID": "pokemon",
+        "heldItems": [
+          {
+            "itemID": "pixelmon:lustrous_globe",
+            "percentChance": 5
+          }
+        ],
+        "condition": {
+          "times": [
+            "MORNING"
+          ],
+          "stringBiomes": [
+            "plains",
+            "magical"
+          ]
+        },
+        "rarity": 0.01
+      },
+      {
+        "spec": "species:Umbreon palette:blue",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "minLevel": 45,
+        "maxLevel": 50,
+        "typeID": "pokemon",
+        "heldItems": [
+          {
+            "itemID": "pixelmon:adamant_crystal",
+            "percentChance": 5
+          }
+        ],
+        "condition": {
+          "times": [
+            "MIDNIGHT"
+          ],
+          "stringBiomes": [
+            "plains",
+            "evil"
+          ]
+        },
+        "rarity": 0.01
+      },
+      {
+        "spec": "species:Leafeon palette:blue",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "minLevel": 45,
+        "maxLevel": 50,
+        "typeID": "pokemon",
+        "heldItems": [
+          {
+            "itemID": "pixelmon:adamant_crystal",
+            "percentChance": 5
+          }
+        ],
+        "condition": {
+          "neededNearbyBlocks": [
+            "pixelmon:moss_rock"
+          ],
+          "stringBiomes": [
+            "forests",
+            "birches",
+            "roofed"
+          ]
+        },
+        "rarity": 0.01
+      },
+      {
+        "spec": "species:Glaceon palette:blue",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "minLevel": 45,
+        "maxLevel": 50,
+        "typeID": "pokemon",
+        "heldItems": [
+          {
+            "itemID": "pixelmon:lustrous_globe",
+            "percentChance": 5
+          }
+        ],
+        "condition": {
+          "neededNearbyBlocks": [
+            "pixelmon:ice_rock"
+          ],
+          "weathers": [
+            "RAIN"
+          ],
+          "stringBiomes": [
+            "freezing"
+          ]
+        },
+        "rarity": 0.01
+      },
+      {
+        "spec": "species:Sylveon palette:blue",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "minLevel": 32,
+        "maxLevel": 44,
+        "typeID": "pokemon",
+        "condition": {
+          "times": [
+            "MORNING"
+          ],
+          "stringBiomes": [
+            "flowery"
+          ]
+        },
+        "rarity": 0.01
+      }
+    ]
+  }
+  

@@ -1,0 +1,35 @@
+{
+    "id": "Corsola_Blue",
+    "spawnInfos": [
+      {
+        "spec": "species:Corsola palette:blue",
+        "stringLocationTypes": [
+          "Seafloor",
+          "Rock Smash"
+        ],
+        "minLevel": 5,
+        "maxLevel": 50,
+        "typeID": "pokemon",
+        "heldItems": [
+          {
+            "itemID": "pixelmon:luminous_moss",
+            "percentChance": 5
+          }
+        ],
+        "condition": {
+          "times": [
+            "DAWN",
+            "DAY"
+          ],
+          "stringBiomes": [
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "byg:coral_mangroves",
+            "terraforged:warm_beach"
+          ]
+        },
+        "rarity": 0.06
+      }
+    ]
+  }
+  
