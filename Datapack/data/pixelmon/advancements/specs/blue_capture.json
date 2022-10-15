@@ -2,7 +2,7 @@
 	"display": {
 		"icon": {
             "item" : "pixelmon:pixelmon_sprite",
-            "nbt" : "{\"palette\":\"blue\",\"ndex\":327}"
+            "nbt" : "{\"palette\":\"blue\",\"ndex\":222}"
 		},
 		"title": {
 			"translate": "advancements.blue.title"
