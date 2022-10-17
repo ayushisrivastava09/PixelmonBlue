@@ -486,7 +486,7 @@
               "name": "blue",
               "texture": "pixelmon:pokemon/196_espeon/all/base/blue/texture.png",
               "sprite": "pixelmon:pokemon/196_espeon/all/base/blue/sprite.png",
-              "particle": "arcanery:shiny"
+              "particle": ""
             }
           ]
         }
