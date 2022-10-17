@@ -1,29 +1,20 @@
 # Blue Pixelmon Pack
 Adds a new variant that is similar to pink pokemon - blue pokemon!
 
-Note: This is a WIP and these pokemon CANNOT spawn naturally! (YET!)
+These pokemon can spawn in the wild like pink pokemon do. They are 50x rarer than normal pokemon.
+
+This can be found on curseforge at https://www.curseforge.com/minecraft/texture-packs/blue-pokemon-variants
 
 # List of Pokemon
 Currently, the pack consists of:
-- Eevee
-- Flareon
-- Jolteon
-- Vaporeon
-- Espeon
-- Umbreon
-- Leafon
-- Glaceon
-- Sylveon
+- Eevee + Eeveelutions
+- Seel & Dewgong
+- Zigzagoon & Linoone
+- Gastly evolutionary line
 - Corsola
-- Seel
-- Dewdong
-- Gastly
-- Haunter
-- Gengar
-- Espurr
+- Spinda
 - Delibird
-- Zigzagoon
-- Lioone
+- Espurr
 
 Pokemon that are considered being added:
 - Geodude line
@@ -41,3 +32,12 @@ Pokemon that are considered being added:
 1. Install the resource pack to the resource pack folder on your client
 2. Create a world and add the datapack to the datapack folder for that world
 3. `/pokespawn <pokemon> palette:blue`
+
+# Contributing
+If you'd like to contribute to the pack, please make a PR!
+
+The textures could all be improved, especially on:
+- Leafon, Glaceon, Sylveon
+- Gastly, Haunter and Gengar
+
+Other pokemon you think would fit the pack well are also welcome, including new pokemon!
