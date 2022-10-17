@@ -1,0 +1,71 @@
+{
+  "id": "Blue_Zigzagoon",
+  "spawnInfos": [
+    {
+      "spec": "species:Zigzagoon palette:blue",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:revive",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:potion",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "plains",
+          "minecraft:snowy_tundra",
+          "biomesoplenty:tundra",
+          "biomesoplenty:tundra_basin",
+          "biomesoplenty:tundra_bog",
+          "byg:frosted_coniferous_forest"
+        ]
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": "species:Linoone palette:blue",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:max_revive",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:potion",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "plains",
+          "minecraft:snowy_tundra",
+          "biomesoplenty:tundra",
+          "biomesoplenty:tundra_basin",
+          "biomesoplenty:tundra_bog",
+          "byg:frosted_coniferous_forest"
+        ]
+      },
+      "rarity": 0.8
+    }
+  ]
+}

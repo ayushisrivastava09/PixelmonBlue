@@ -20,6 +20,10 @@ Currently, the pack consists of:
 - Gastly
 - Haunter
 - Gengar
+- Espurr
+- Delibird
+- Zigzagoon
+- Lioone
 
 Pokemon that are considered being added:
 - Geodude line
@@ -31,10 +35,7 @@ Pokemon that are considered being added:
 - Cherrim line
 - Spinada
 - Pinico line
-- Zigzagoon line (hoenn)
 - Minccino line
-- Espurr
-- Delibird
 
 # Installing
 1. Install the resource pack to the resource pack folder on your client

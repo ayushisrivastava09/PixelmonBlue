@@ -1,0 +1,199 @@
+{
+    "id": " Haunter_Blue",
+    "spawnInfos": [
+      {
+        "spec": "species:Gastly palette:blue",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "minLevel": 8,
+        "maxLevel": 25,
+        "typeID": "pokemon",
+        "condition": {
+          "times": [
+            "NIGHT"
+          ],
+          "stringBiomes": [
+            "taigas",
+            "roofed",
+            "evil"
+          ]
+        },
+        "rarity": 2.6
+      },
+      {
+        "spec": "species:Gastly palette:blue",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "minLevel": 8,
+        "maxLevel": 25,
+        "typeID": "pokemon",
+        "condition": {
+          "stringBiomes": [
+            "hellish"
+          ]
+        },
+        "rarity": 2.6
+      },
+      {
+        "spec": "species:Gastly palette:blue",
+        "stringLocationTypes": [
+          "Underground"
+        ],
+        "minLevel": 8,
+        "maxLevel": 25,
+        "typeID": "pokemon",
+        "condition": {
+          "maxLightLevel": 0
+        },
+        "rarityMultipliers": [
+          {
+            "multiplier": 2,
+            "condition": {
+              "neededNearbyBlocks": [
+                "minecraft:oak_planks"
+              ]
+            }
+          }
+        ],
+        "rarity": 2.6
+      },
+      {
+        "spec": "species:Gastly palette:blue",
+        "stringLocationTypes": [
+          "Indoors",
+          "Land"
+        ],
+        "minLevel": 8,
+        "maxLevel": 25,
+        "typeID": "pokemon",
+        "condition": {
+          "structures": [
+            "pixelmon:haunted_tower"
+          ],
+          "stringBiomes": [
+            "roofed"
+          ]
+        },
+        "rarity": 2.6
+      },
+      {
+        "spec": "species:Haunter palette:blue",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "minLevel": 25,
+        "maxLevel": 50,
+        "typeID": "pokemon",
+        "condition": {
+          "times": [
+            "NIGHT"
+          ],
+          "stringBiomes": [
+            "taigas",
+            "roofed",
+            "evil"
+          ]
+        },
+        "rarity": 0.16
+      },
+      {
+        "spec": "species:Haunter palette:blue",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "minLevel": 25,
+        "maxLevel": 50,
+        "typeID": "pokemon",
+        "condition": {
+          "stringBiomes": [
+            "hellish"
+          ]
+        },
+        "rarity": 0.16
+      },
+      {
+        "spec": "species:Haunter palette:blue",
+        "stringLocationTypes": [
+          "Underground"
+        ],
+        "minLevel": 25,
+        "maxLevel": 50,
+        "typeID": "pokemon",
+        "condition": {
+          "maxLightLevel": 0
+        },
+        "rarityMultipliers": [
+          {
+            "multiplier": 2,
+            "condition": {
+              "neededNearbyBlocks": [
+                "minecraft:oak_planks"
+              ]
+            }
+          }
+        ],
+        "rarity": 0.16
+      },
+      {
+        "spec": "species:Haunter palette:blue",
+        "stringLocationTypes": [
+          "Indoors",
+          "Land"
+        ],
+        "minLevel": 25,
+        "maxLevel": 50,
+        "typeID": "pokemon",
+        "condition": {
+          "structures": [
+            "pixelmon:haunted_tower"
+          ],
+          "times": [
+            "NIGHT"
+          ],
+          "stringBiomes": [
+            "roofed"
+          ]
+        },
+        "rarity": 0.16
+      },
+      {
+        "spec": "species:Gengar palette:blue",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "minLevel": 30,
+        "maxLevel": 50,
+        "typeID": "pokemon",
+        "condition": {
+          "stringBiomes": [
+            "minecraft:soul_sand_valley"
+          ]
+        },
+        "rarity": 0.02
+      },
+      {
+        "spec": "species:Gengar palette:blue",
+        "stringLocationTypes": [
+          "Indoors",
+          "Land"
+        ],
+        "minLevel": 30,
+        "maxLevel": 50,
+        "typeID": "pokemon",
+        "condition": {
+          "structures": [
+            "pixelmon:haunted_tower"
+          ],
+          "times": [
+            "MIDNIGHT"
+          ],
+          "stringBiomes": [
+            "roofed"
+          ]
+        },
+        "rarity": 0.02
+      }
+    ]
+  }
